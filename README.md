@@ -1,0 +1,1 @@
+# java_springboot_api_gradle_secretmanager
